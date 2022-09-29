@@ -2,11 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linkis.incubator.apache.org/blog</id>
     <title>Apache Linkis Blog</title>
-    <updated>2022-06-09T00:00:00.000Z</updated>
+    <updated>2022-09-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linkis.incubator.apache.org/blog"/>
     <subtitle>Apache Linkis Blog</subtitle>
     <icon>https://linkis.incubator.apache.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Deploy Apache Linkis1.1.1 and DSS1.1.0 based on CDH6.3.2]]></title>
+        <id>Deploy Apache Linkis1.1.1 and DSS1.1.0 based on CDH6.3.2</id>
+        <link href="https://linkis.incubator.apache.org/blog/2022/09/27/linkis111-deploy"/>
+        <updated>2022-09-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the development of business and the update and iteration of community products, we found that Linkis1. X has greatly improved its performance in terms of resource management and engine management, which can better meet the requirements of the construction of data middle stations. Compared with version 0.9.3 and the platform we used before, the user experience has also been greatly improved, and the problems such as the inability to view details on the task failure page have also been improved. Therefore, we decided to upgrade Linkis and the WDS suite. The following are the specific practical operations, which we hope will give you a reference.]]></summary>
+        <author>
+            <name>kevinWdong</name>
+            <uri>https://github.com/kongslove</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linkis1.1.1 adapts Hadoop 3.1.1 and deploys other services]]></title>
+        <id>Linkis1.1.1 adapts Hadoop 3.1.1 and deploys other services</id>
+        <link href="https://linkis.incubator.apache.org/blog/2022/08/08/linkis111-compile-integration"/>
+        <updated>2022-08-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Environment and Version]]></summary>
+        <author>
+            <name>ruY9527</name>
+            <uri>https://github.com/ruY9527</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[deploy linkis with kubernetes]]></title>
+        <id>deploy linkis with kubernetes</id>
+        <link href="https://linkis.incubator.apache.org/blog/2022/07/16/deploy-linkis-with-kubernetes"/>
+        <updated>2022-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Dependencies and versions]]></summary>
+        <author>
+            <name>jacktao</name>
+            <uri>https://github.com/jacktao007</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add a GitHub Action for the GitHub repository]]></title>
+        <id>How to add a GitHub Action for the GitHub repository</id>
+        <link href="https://linkis.incubator.apache.org/blog/2022/07/04/how-to-add-auto-bot"/>
+        <updated>2022-07-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1 Summary]]></summary>
+        <author>
+            <name>BeaconTown</name>
+            <uri>https://github.com/Beacontownfc/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apache Linkis(Incubating) Meep Up]]></title>
         <id>Apache Linkis(Incubating) Meep Up</id>
